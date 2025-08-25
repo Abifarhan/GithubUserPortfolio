@@ -38,4 +38,27 @@ Aplikasi Android sederhana yang menampilkan daftar pengguna GitHub, detail pengg
 1. Clone repositori:
 
 ```bash
-git clone https://github.com/username/github-user-portfolio.git
+git clone https://github.com/Abifarhan/GithubUserPortfolio
+```
+
+2. Clone repositori:Buka proyek di Android Studio.
+
+3. Tunggu proses Gradle sync selesai.
+
+4. Jalankan aplikasi di emulator atau perangkat fisik.
+
+## Cara Menggunakan Aplikasi
+
+1. **Daftar Pengguna**  
+   Halaman utama menampilkan daftar pengguna GitHub.
+
+2. **Pencarian**  
+   Gunakan search bar untuk memfilter pengguna berdasarkan login.
+
+3. **Detail Pengguna**  
+   Klik salah satu pengguna untuk melihat detail lengkap.
+
+4. **Offline-First**  
+   Data yang sudah diunduh tersimpan di database lokal, sehingga dapat diakses tanpa koneksi internet.
+
+
